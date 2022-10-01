@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background: #f4f3ef;
+}
+
+header {
+    padding-top: 4vh;
+    padding-bottom: 10vh;
+    background: #FBAA01;
+    width: 100%;
+    display: inline-block;
+}
+
+.logo1 {
+    margin-top: -6vh;
+    width: 25vh;
+    position: absolute;
+}
+
+nav {
+    text-align: end;
+    margin-top: 3vh;
+    margin-right: 2vh;
+}
+
+a {
+    font-size: 25px;
+    font-weight: 400;
+    margin-right: 1%;
+    cursor: pointer;
+    color: #22110a;
+}
+
+.body {
+    text-align: center;
+}
+
+.nos {
+    margin-top: 2vh;
+    margin-bottom: 4vh;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.jobs {
+    display: inline-block;
+}
+
+.g1 {   
+    height: 300px;
+}
+
+.g2 {
+    height: 300px;
+}
+
+.g3 {
+    height: 300px;
+}
+
+.guns {
+    display: inline-block;
+}
+
+.a1 {
+    height: 300px;
+}
+
+.a2 {
+    height: 300px;
+}
+
+.a3 {
+    height: 300px;
+}
+
+.drinks {
+    display: inline-block;
+}
+
+.b1 {
+    height: 300px;
+}
+
+.b2 {
+    height: 300px;
+}
+
+.b3 {
+    height: 300px;
+}
+
+.b4 {
+    height: 300px;
+}
+
+.b5 {
+    height: 300px;
+}
+
+.b6 {
+    height: 300px;
+}
+
+.b7 {
+    height: 300px;
+}
