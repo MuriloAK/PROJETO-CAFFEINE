@@ -17,7 +17,7 @@ header {
     display: inline-block;
 }
 
-.logo1 {
+.logo {
     margin-top: -6vh;
     width: 25vh;
     position: absolute;
@@ -110,4 +110,12 @@ a {
 
 .b7 {
     height: 300px;
+}
+
+.video1 {
+    height: 350px;
+}
+
+.contact {
+    
 }
